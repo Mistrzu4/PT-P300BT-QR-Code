@@ -1,3 +1,11 @@
+# InvenTree QR Code generator
+
+Use: 
+
+`python justprint.py <part_nr> [-COM COMx]` 
+
+If you don’t provide a COM port, it will be detected automatically.
+
 # Printing to a Brother P-Touch Cube PT-P300BT label printer from a computer
 
 A Python-based label printing utility designed for Brother PT-P300BT thermal label printers. This program creates custom labels with text, images, and advanced formatting options, automatically optimizing content to fit within the printer's specifications.
